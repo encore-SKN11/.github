@@ -8,9 +8,11 @@
 <br>
 
 
+## 🌱 수업 소스코드 
+
 > 소스코드 참고
 >
 
 |챕터|Repository|
 |------|---|
-|Python|[Python lecture source](https://github.com/encore-SKN11/) |
+|Python|[Python Repository](https://github.com/encore-SKN11/) |
