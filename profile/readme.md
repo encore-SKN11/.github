@@ -15,4 +15,4 @@
 
 |챕터|Repository|
 |------|---|
-|Python|[Python Repository](https://github.com/encore-SKN11/) |
+|Python|[Python Repository](https://github.com/encore-SKN11/01_python.git) |
