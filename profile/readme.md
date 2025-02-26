@@ -16,3 +16,5 @@
 |챕터|Repository|
 |------|---|
 |Python|[Python Repository](https://github.com/encore-SKN11/01_python.git) |
+|Database|[Database Repository](https://github.com/encore-SKN11/02_database.git) |
+|Web Crawaling|[Web Crawaling Repository](https://github.com/encore-SKN11/03_web_crawling.git) |
