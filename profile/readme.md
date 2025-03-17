@@ -20,5 +20,6 @@
 |Web Crawaling|[Web Crawaling Repository](https://github.com/encore-SKN11/03_web_crawling.git) |
 |Data Analysis|[Data Analysis Repository](https://github.com/encore-SKN11/04_data_analysis) |
 |Machine Learning|[Machine Learning Repository](https://github.com/encore-SKN11/05_machine_learning) |
+|Deep Learning|[Deep Learning Repository](https://github.com/encore-SKN11/06_deep_learning_basic.git) |
 
 
