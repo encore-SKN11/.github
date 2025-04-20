@@ -22,3 +22,4 @@
 |Machine Learning|[Machine Learning Repository](https://github.com/encore-SKN11/05_machine_learning) |
 |Deep Learning|[Deep Learning Repository](https://github.com/encore-SKN11/06_deep_learning_basic.git) |
 |NLP|[NLP Repository](https://github.com/encore-SKN11/07_nlp.git) |
+|LLM|[LLM Repository](https://github.com/encore-SKN11/08_llm.git) |
